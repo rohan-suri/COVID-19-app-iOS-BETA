@@ -9,6 +9,10 @@ running permanently in the background, it periodically broadcasts and listens
 for other Bluetooth-enabled devices (iOS and Android at this time) that also
 broadcast the same unique identifier.
 
+# Vulnerability Reporting
+
+If you believe you have found a security vulnerability, please read our vulnerability disclosure policy and submit your report to us at: https://hackerone.com/nhscovid19app
+
 ## How it works
 
 Our unique identifier is also known as our service characteristic. In the
